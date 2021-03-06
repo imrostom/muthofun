@@ -1,0 +1,2 @@
+# muthofun
+A muthofun package
